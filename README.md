@@ -5,7 +5,7 @@ Hi there, I'm Shivam</a> 👋
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. 
 
 
-# Assignment 1
+# Assignment 4
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-blue)
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
@@ -15,7 +15,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 
 
-## Project 4 Live link [Live Link
+## Project 4 
 
 -   Skills Gained in this project
     -  CSS Basics
@@ -27,3 +27,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 -   4 hour taken to complete it.
 ---
+## Screenshot
+
+![](./thumbnail.png)
